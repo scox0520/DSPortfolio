@@ -6,11 +6,11 @@ This is a collection of projects I've worked on to demonstrate skills and to exp
 ## Contents
 
  - #### Corporate Neighbors: Corporate investment into single family housing in the Twin Cities region
-    -  Phase 1: Cleaning and harmonizing parcel data from the seven county metro area. Identified single family, small multi-family, and large-multifamily residential housing. Identifyied corporate ownership based on tax name.
-    - Phase 2: Create social, demographic, economic, housing and place-based dataset based on geography to explore corporate investment relative to other spatial patterns in the Twin Cities region.
-    - Phase 3: Exploratory Data Analysis to examine geographical patterns of explanatory variable, spatial auto-correlation (statistically significant spatial clustering), and correlation between variables. Explore the spatial distribution and clustering of corporate investment based on geography and time period. Identify variables important for modeling.
-    - Phase 4: Using classification logistic model to understand odds of a single family home being acquired by a corporate landlord
-    - Phase 5: Report
+    -  Preprocessing TC Parcels: Cleaning and harmonizing parcel data from the seven county metro area. Identified single family, small multi-family, and large-multifamily residential housing. Identifyied corporate ownership based on tax name.
+    - Preprocessing TC tracts: Create social, demographic, economic, housing and place-based dataset based on geography to explore corporate investment relative to other spatial patterns in the Twin Cities region.
+    - TC EDA: Exploratory Data Analysis to examine geographical patterns of explanatory variable, spatial auto-correlation (statistically significant spatial clustering), and correlation between variables. Explore the spatial distribution and clustering of corporate investment based on geography and time period. Identify variables important for modeling.
+    - TC Modeling: Using classification logistic model to understand odds of a single family home being acquired by a corporate landlord
+    - Report: Report created to detail main findings
 
  - #### BIXI Analysis: A project used to practice generating SQL queries to understand patterns of customer use of the Bixi Bikeshare Program in Montreal
 
