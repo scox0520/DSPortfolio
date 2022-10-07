@@ -1,16 +1,27 @@
-### Hi there 👋
+## Welcome to my DS portfolio!
 
+This is a collection of projects I've worked on to demonstrate skills and to explore things of interest to me. My main interests collide at the intersection of urban development, housing/transit, and urban political economy. Further writing samples can be found on my website.
+
+
+## Contents
+
+ - #### Corporate Neighbors: Corporate investment into single family housing in the Twin Cities region
+    -  Phase 1: Cleaning and harmonizing parcel data from the seven county metro area. Identified single family, small multi-family, and large-multifamily residential housing. Identifyied corporate ownership based on tax name.
+    - Phase 2: Create social, demographic, economic, housing and place-based dataset based on geography to explore corporate investment relative to other spatial patterns in the Twin Cities region.
+    - Phase 3: Exploratory Data Analysis to examine geographical patterns of explanatory variable, spatial auto-correlation (statistically significant spatial clustering), and correlation between variables. Explore the spatial distribution and clustering of corporate investment based on geography and time period. Identify variables important for modeling.
+    - Phase 4: Using classification logistic model to understand odds of a single family home being acquired by a corporate landlord
+    - Phase 5: Report
+
+ - #### BIXI Analysis: A project used to practice generating SQL queries to understand patterns of customer use of the Bixi Bikeshare Program in Montreal
+
+ - #### Sentiment Analysis: Use of NLP algorithms to generate a sentiment analysis to predict positive or negative reviews for hotels in five European cities
+    - Phase 1: Data Preparation
+    - Phase 2: Application of ML classification methods
+  
+## In Progress
+ - Further ML modeling of corporate housing data in the Twin Cities
+ - Analysis of changes in the geographical class structure of the Puget Sound and Twin Cities metro since the neoliberal revolution in the 1980s
+ - Spatial analysis and predictive modeling of the 2016 election
+ - Time Series analysis of transportation patterns
 <!--
-**scox0520/scox0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
