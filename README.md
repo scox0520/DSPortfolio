@@ -5,7 +5,7 @@ This is a collection of projects I've worked on to demonstrate skills and to exp
 
 ## Contents
 
- - #### Corporate Neighbors: Corporate investment into single family housing in the Twin Cities region
+ - #### Wall Street Neighbors: Corporate investment into single family housing in the Twin Cities region
     -  Preprocessing TC Parcels: Cleaning and harmonizing parcel data from the seven county metro area. Identified single family, small multi-family, and large-multifamily residential housing. Identifyied corporate ownership based on tax name.
     - Preprocessing TC Tracts: Create social, demographic, economic, housing and place-based dataset based on geography to explore corporate investment relative to other spatial patterns in the Twin Cities region.
     - TC EDA: Exploratory Data Analysis to examine geographical patterns of explanatory variable, spatial auto-correlation (statistically significant spatial clustering), and correlation between variables. Explore the spatial distribution and clustering of corporate investment based on geography and time period. Identify variables important for modeling.
